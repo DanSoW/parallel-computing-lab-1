@@ -1,0 +1,15 @@
+C:\Projects\Learning\parallel-computing\lab-1\bin\Release\net6.0\lab1a.exe
+C:\Projects\Learning\parallel-computing\lab-1\bin\Release\net6.0\lab1a.deps.json
+C:\Projects\Learning\parallel-computing\lab-1\bin\Release\net6.0\lab1a.runtimeconfig.json
+C:\Projects\Learning\parallel-computing\lab-1\bin\Release\net6.0\lab1a.dll
+C:\Projects\Learning\parallel-computing\lab-1\bin\Release\net6.0\lab1a.pdb
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.csproj.AssemblyReference.cache
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.AssemblyInfoInputs.cache
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.AssemblyInfo.cs
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.dll
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\refint\lab1a.dll
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.pdb
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\lab1a.genruntimeconfig.cache
+C:\Projects\Learning\parallel-computing\lab-1\obj\Release\net6.0\ref\lab1a.dll
